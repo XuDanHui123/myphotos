@@ -1,0 +1,2 @@
+# myphotos
+my private photos
